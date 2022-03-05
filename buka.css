@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+}
+.writing h3{
+    color: white;
+    text-align: center;
+}
+.writing marquee{
+    color: white;
+    padding: 5px;
+    font-size: 26px;
+}
+.img {
+    padding: 30px;
+    padding-left: 28%;
+    margin: 1%;
+}
+.name p{
+    color: white;
+    padding: 30px;
+    padding-left: 25%;
+    margin: 1%;
+}
